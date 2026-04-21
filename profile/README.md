@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://greektv.app"><img src="https://www.greektv.app/img/github_logo.png" />
+  <a href="https://greektv.app"><img src="https://assets.greektv.app/github_logo.png" />
 </p>
 
 ***
